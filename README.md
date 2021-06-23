@@ -16,11 +16,11 @@ https://youtu.be/cyaHZ4dQ4g8
 
 **Reference:**
 
-Case-level data on 
+Case-level data on:
 - New South Wales outbreak during June 2021
 - Victorian outbreak during May-June 2021
 
-[dbRaevn](https://twitter.com/dbRaevn) has manually constructed a diagram of the outbreak paths, based on information from daily press cases. 
+[dbRaevn](https://twitter.com/dbRaevn) has manually constructed diagrams of the outbreak paths, based on information from daily press cases. 
 
 This project turns that inforamtion into structured data and feeds it through an interactive dataviz solution, using [Power BI](https://powerbi.microsoft.com) with the [Drill Down Graph PRO Custom Visual by ZoomCharts](https://appsource.microsoft.com/en-us/product/power-bi-visuals/wa200002065?tab=overview).  The interactive features allow the audience to filter the dataset by date, cluster or variant.
 
