@@ -8,7 +8,7 @@ Projects to explore detailed outbreak paths. Mostly dataviz using Power BI
 **Preview animation:**
 https://youtu.be/VHzlyYWVBFk
 
-[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20QLD-NT%20Outbreak%20Paths.gif)](https://youtu.be/VHzlyYWVBFk)
+[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20QLD-NT%20Outbreak%20Paths.gif)](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20QLD-NT%20Outbreak%20Paths.gif)
 
 ----
 **[New South Wales: June 2021 - Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZGQyNTE1ZjUtYTY0OC00ZjhmLTgwYTAtZjAxMGNjOGIxYWUyIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)**
