@@ -6,9 +6,9 @@ Projects to explore detailed outbreak paths. Mostly dataviz using Power BI
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20QLD-NT%20Outbreak%20Paths.png)](https://app.powerbi.com/view?r=eyJrIjoiZDMxZjI4MWItOTI4ZS00ODY3LWFjNTAtNTY4Mzg0MTMyN2U0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
 **Preview animation:**
-https://youtu.be/VHzlyYWVBFk
+https://youtu.be/pqNP-WKRf1k
 
-[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20QLD-NT%20Outbreak%20Paths.gif)](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20QLD-NT%20Outbreak%20Paths.gif)
+[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20QLD-NT%20Outbreak%20Paths.gif)](https://youtu.be/pqNP-WKRf1k)
 
 ----
 **[New South Wales: June 2021 - Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZGQyNTE1ZjUtYTY0OC00ZjhmLTgwYTAtZjAxMGNjOGIxYWUyIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)**
@@ -16,9 +16,9 @@ https://youtu.be/VHzlyYWVBFk
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths.png)](https://app.powerbi.com/view?r=eyJrIjoiZGQyNTE1ZjUtYTY0OC00ZjhmLTgwYTAtZjAxMGNjOGIxYWUyIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
 **Preview animation:**
-https://youtu.be/oKvvT5QUky8
+https://youtu.be/4zN_TQPHiIs
 
-[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths.gif)](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths.gif)
+[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths.gif)](https://youtu.be/4zN_TQPHiIs)
 
 ----
 **[Victoria: May-June 2021 - Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZjE1ZTNmNDUtYjgyMS00NTg5LTk5M2MtY2FjOWJjODY2NGZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection249bfa2c532d631a641e)**
