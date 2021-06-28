@@ -48,7 +48,7 @@ For this project, the manual diagram info is converted into a structured data ta
 
 Another sheet in the Excel file provides the colours assigned to each node by date.  The preferred colours scheme is a steady gradient of purple. The colour scheme used on the manual diagram is also presented on an alternate page, for those who prefer that scheme.
 
-Several dataviz variations are presented on alternate pages - use the page navigation controls at the bottom to view them. They explore different layout options and colour schemes, and some alternative visuals.  
+Several dataviz variations are presented on alternate pages - use the page navigation controls at the bottom to view them. They explore different layout options and colour schemes, and some alternative visuals.  The [Drill Down Graph PRO Custom Visual by ZoomCharts](https://appsource.microsoft.com/en-us/product/power-bi-visuals/wa200002065?tab=overview) is the preferred visual, and the kind folks at ZoomCharts have supported this project.
 
 
 THIS REPORT IS NOT HEALTH ADVICE - REFER TO YOUR LOCAL HEALTH AUTHORITY.
