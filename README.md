@@ -1,7 +1,9 @@
 # covid-19-outbreak-paths
 Projects to explore detailed outbreak paths. Mostly dataviz using Power BI
 
-**[Queensland / Northern Territory: June 2021 - Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZDMxZjI4MWItOTI4ZS00ODY3LWFjNTAtNTY4Mzg0MTMyN2U0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)**
+----
+## Queensland / Northern Territory: June 2021
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZDMxZjI4MWItOTI4ZS00ODY3LWFjNTAtNTY4Mzg0MTMyN2U0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20QLD-NT%20Outbreak%20Paths.png)](https://app.powerbi.com/view?r=eyJrIjoiZDMxZjI4MWItOTI4ZS00ODY3LWFjNTAtNTY4Mzg0MTMyN2U0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
@@ -11,7 +13,8 @@ https://youtu.be/pqNP-WKRf1k
 [![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20QLD-NT%20Outbreak%20Paths.gif)](https://youtu.be/pqNP-WKRf1k)
 
 ----
-**[New South Wales: June 2021 - Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZGQyNTE1ZjUtYTY0OC00ZjhmLTgwYTAtZjAxMGNjOGIxYWUyIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)**
+## New South Wales: June 2021
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZGQyNTE1ZjUtYTY0OC00ZjhmLTgwYTAtZjAxMGNjOGIxYWUyIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths.png)](https://app.powerbi.com/view?r=eyJrIjoiZGQyNTE1ZjUtYTY0OC00ZjhmLTgwYTAtZjAxMGNjOGIxYWUyIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
@@ -21,7 +24,8 @@ https://youtu.be/4zN_TQPHiIs
 [![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths.gif)](https://youtu.be/4zN_TQPHiIs)
 
 ----
-**[Victoria: May-June 2021 - Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZjE1ZTNmNDUtYjgyMS00NTg5LTk5M2MtY2FjOWJjODY2NGZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection249bfa2c532d631a641e)**
+## Victoria: May-June 2021
+**[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZjE1ZTNmNDUtYjgyMS00NTg5LTk5M2MtY2FjOWJjODY2NGZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection249bfa2c532d631a641e)**
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-05%20Victorian%20Outbreak%20Paths.png)](https://app.powerbi.com/view?r=eyJrIjoiZjE1ZTNmNDUtYjgyMS00NTg5LTk5M2MtY2FjOWJjODY2NGZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection249bfa2c532d631a641e)
 
@@ -50,6 +54,11 @@ Another sheet in the Excel file provides the colours assigned to each node by da
 
 Several dataviz variations are presented on alternate pages - use the page navigation controls at the bottom to view them. They explore different layout options and colour schemes, and some alternative visuals.  The [Drill Down Graph PRO Custom Visual by ZoomCharts](https://appsource.microsoft.com/en-us/product/power-bi-visuals/wa200002065?tab=overview) is the preferred visual, and the kind folks at ZoomCharts have supported this project.
 
+Here's how I produce the animations:
+1. screen capture using Windows 10 Game bar (Start-G)
+2. trim video using Windows 10 Photos app - aim for 1 second or less "paused" at the start and 2 at the end
+3. crop to focus on the animated part of the screen using https://www.freeconvert.com/crop-video. Save as mp4 (for twitter, youtube)
+4. convert to gif using https://ezgif.com/video-to-gif (for github)
 
 THIS REPORT IS NOT HEALTH ADVICE - REFER TO YOUR LOCAL HEALTH AUTHORITY.
 
