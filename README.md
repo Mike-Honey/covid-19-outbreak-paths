@@ -3,7 +3,14 @@ Projects to explore detailed outbreak paths. Mostly dataviz using Power BI
 
 ----
 ## Northern Territory: June 2021
-Coming soon ...
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiM2E2YTBlMjgtZGM4MC00ZTdkLTkyYTMtZjc5NDYzN2NlNWI2IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20NT%20Outbreak%20Paths.png)](https://app.powerbi.com/view?r=eyJrIjoiM2E2YTBlMjgtZGM4MC00ZTdkLTkyYTMtZjc5NDYzN2NlNWI2IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
+
+**Preview animation:**
+https://youtu.be/HYRUI3Ak9F0
+
+[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20NT%20Outbreak%20Paths.gif)](https://youtu.be/HYRUI3Ak9F0)
 
 ----
 ## Queensland: June 2021
