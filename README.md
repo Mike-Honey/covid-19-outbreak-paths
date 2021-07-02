@@ -19,9 +19,9 @@ https://youtu.be/mmINkDIF1Fw
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20QLD%20Outbreak%20Paths.png)](https://app.powerbi.com/view?r=eyJrIjoiZDMxZjI4MWItOTI4ZS00ODY3LWFjNTAtNTY4Mzg0MTMyN2U0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
 **Preview animation:**
-https://youtu.be/HBU6AYS9eMg
+https://youtu.be/JMx3oN9Q5tg
 
-[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20QLD%20Outbreak%20Paths.gif)](https://youtu.be/HBU6AYS9eMg)
+[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20QLD%20Outbreak%20Paths.gif)](https://youtu.be/JMx3oN9Q5tg)
 
 ----
 ## New South Wales: June 2021
