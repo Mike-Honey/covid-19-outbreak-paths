@@ -2,26 +2,15 @@
 Projects to explore detailed outbreak paths. Mostly dataviz using Power BI
 
 ----
-## Northern Territory: June 2021
-[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiM2E2YTBlMjgtZGM4MC00ZTdkLTkyYTMtZjc5NDYzN2NlNWI2IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
-
-[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20NT%20Outbreak%20Paths.png)](https://app.powerbi.com/view?r=eyJrIjoiM2E2YTBlMjgtZGM4MC00ZTdkLTkyYTMtZjc5NDYzN2NlNWI2IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
-
-**Preview animation:**
-https://youtu.be/iXiemDw6L4A
-
-[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20NT%20Outbreak%20Paths.gif)](https://youtu.be/iXiemDw6L4A)
-
-----
 ## Queensland: June 2021
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZDMxZjI4MWItOTI4ZS00ODY3LWFjNTAtNTY4Mzg0MTMyN2U0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20QLD%20Outbreak%20Paths.png)](https://app.powerbi.com/view?r=eyJrIjoiZDMxZjI4MWItOTI4ZS00ODY3LWFjNTAtNTY4Mzg0MTMyN2U0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
 **Preview animation:**
-https://youtu.be/OL-2SFfdkZg
+https://youtu.be/J5aLll6kG_U
 
-[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20QLD%20Outbreak%20Paths.gif)](https://youtu.be/OL-2SFfdkZg)
+[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20QLD%20Outbreak%20Paths.gif)](https://youtu.be/J5aLll6kG_U)
 
 ----
 ## New South Wales: June 2021
@@ -33,6 +22,17 @@ https://youtu.be/OL-2SFfdkZg
 https://youtu.be/55xm_c8w0RU
 
 [![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths.gif)](https://youtu.be/55xm_c8w0RU)
+
+----
+## Northern Territory: June 2021
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiM2E2YTBlMjgtZGM4MC00ZTdkLTkyYTMtZjc5NDYzN2NlNWI2IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20NT%20Outbreak%20Paths.png)](https://app.powerbi.com/view?r=eyJrIjoiM2E2YTBlMjgtZGM4MC00ZTdkLTkyYTMtZjc5NDYzN2NlNWI2IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
+
+**Preview animation:**
+https://youtu.be/iXiemDw6L4A
+
+[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20NT%20Outbreak%20Paths.gif)](https://youtu.be/iXiemDw6L4A)
 
 ----
 ## Victoria: May-June 2021
