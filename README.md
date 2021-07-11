@@ -70,6 +70,10 @@ Another sheet in the Excel file provides the colours assigned to each node by da
 
 Several dataviz variations are presented on alternate pages - use the page navigation controls at the bottom to view them. They explore different layout options and colour schemes, and some alternative visuals.  The [Drill Down Graph PRO Custom Visual by ZoomCharts](https://appsource.microsoft.com/en-us/product/power-bi-visuals/wa200002065?tab=overview) is the preferred visual, and the kind folks at ZoomCharts have supported this project.
 
+For the New South Wales outbreak, I've added the following features:
+- labels hidden by default, slicer control to show them
+- dynamic Reff, calculated using Professor Adrian Esterman's method, detailed on this [Twitter thread](https://twitter.com/profesterman/status/1413293550490460166)
+
 Here's how I produce the animations:
 1. screen capture using Windows 10 Game bar (Start-G)
 2. trim video using Windows 10 Photos app - aim for 1 second or less "paused" at the start and 2 at the end
