@@ -57,6 +57,11 @@ Case-level data on:
 
 This project turns that inforamtion into structured data and feeds it through an interactive dataviz solution, using [Power BI](https://powerbi.microsoft.com) with the [Drill Down Graph PRO Custom Visual by ZoomCharts](https://appsource.microsoft.com/en-us/product/power-bi-visuals/wa200002065?tab=overview).  The interactive features allow the audience to filter the dataset by date, cluster or variant.
 
+For the New South Wales outbreak, manually constructed diagrams are not available after 7 July, so using that final diagram as a starting point, I have:
+- used the [NSW Health Weekly Surveillance Report for the week ending 26 July](https://www.health.nsw.gov.au/Infectious/covid-19/Documents/covid-surveillance-report-20210706.pdf) to assign unlinked cases to newly revealed sub-clusters e.g. Marrickville Warehouse, Bondi Gym etc
+- used the [NSW Health](https://twitter.com/NSWHealth) daily twitter announcements to generate new nodes. As few details are provided, there are many assumptions made.  
+
+
 **Summary**
 
 For this project, the manual diagram info is converted into a structured data table (Excel). Each row represents a transmission link between cases. The codes used for each node on the manual diagram are used as Source and Target nodes to drive the diagram visual. Cases with an unknown source are loaded with the same code for Source and Target. The dataviz tool used requires unique codes for each node, so suffixes have been added where the manual diagram codes were not unique. Once the initial dataset is established, ongoing updates are relatively simple.
