@@ -5,12 +5,12 @@ Projects to explore detailed outbreak paths. Mostly dataviz using Power BI
 ## Victoria: July 2021
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiMTEwNDRkODktYTc5My00NDViLWIzNmItODM1MGE1NGI0ZjkwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
-[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-07%20Victorian%20Outbreak%20Paths.png)](https://app.powerbi.com/view?r=eyJrIjoiMTEwNDRkODktYTc5My00NDViLWIzNmItODM1MGE1NGI0ZjkwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-07%20Victoria%20Outbreak%20Paths.png)](https://app.powerbi.com/view?r=eyJrIjoiMTEwNDRkODktYTc5My00NDViLWIzNmItODM1MGE1NGI0ZjkwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
 **Preview animation:**
-https://youtu.be/PTgq2XbJ83Q
+https://youtu.be/frNwxvYHgzs
 
-[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-07%20Victorian%20Outbreak%20Paths.gif)](https://youtu.be/PTgq2XbJ83Q)
+[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-07%20Victoria%20Outbreak%20Paths.gif)](https://youtu.be/frNwxvYHgzs)
 
 ----
 ## New South Wales: June 2021
@@ -60,9 +60,10 @@ https://youtu.be/PTgq2XbJ83Q
 **Reference:**
 
 Case-level data on:
+- Victoria outbreak during July 2021
+- New South Wales outbreak during June-July 2021
 - Queensland / Northern Territory outbreak during June 2021
-- New South Wales outbreak during June 2021
-- Victorian outbreak during May-June 2021
+- Victoria outbreak during May-June 2021
 
 [dbRaevn](https://twitter.com/dbRaevn) has manually constructed diagrams of the outbreak paths, based on information from daily press cases. 
 
