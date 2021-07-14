@@ -2,6 +2,17 @@
 Projects to explore detailed outbreak paths. Mostly dataviz using Power BI
 
 ----
+## Victoria: July 2021
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiMTEwNDRkODktYTc5My00NDViLWIzNmItODM1MGE1NGI0ZjkwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-07%20Victorian%20Outbreak%20Paths.png)](https://app.powerbi.com/view?r=eyJrIjoiMTEwNDRkODktYTc5My00NDViLWIzNmItODM1MGE1NGI0ZjkwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
+
+**Preview animation:**
+https://youtu.be/PTgq2XbJ83Q
+
+[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-07%20Victorian%20Outbreak%20Paths.gif)](https://youtu.be/PTgq2XbJ83Q)
+
+----
 ## New South Wales: June 2021
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZGQyNTE1ZjUtYTY0OC00ZjhmLTgwYTAtZjAxMGNjOGIxYWUyIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
@@ -36,7 +47,7 @@ https://youtu.be/iXiemDw6L4A
 
 ----
 ## Victoria: May-June 2021
-**[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZjE1ZTNmNDUtYjgyMS00NTg5LTk5M2MtY2FjOWJjODY2NGZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection249bfa2c532d631a641e)**
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZjE1ZTNmNDUtYjgyMS00NTg5LTk5M2MtY2FjOWJjODY2NGZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection249bfa2c532d631a641e)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-05%20Victorian%20Outbreak%20Paths.png)](https://app.powerbi.com/view?r=eyJrIjoiZjE1ZTNmNDUtYjgyMS00NTg5LTk5M2MtY2FjOWJjODY2NGZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection249bfa2c532d631a641e)
 
