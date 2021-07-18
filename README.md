@@ -8,9 +8,9 @@ Projects to explore detailed outbreak paths. Mostly dataviz using Power BI
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-07%20Victoria%20Outbreak%20Paths.png)](https://app.powerbi.com/view?r=eyJrIjoiMTEwNDRkODktYTc5My00NDViLWIzNmItODM1MGE1NGI0ZjkwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
 **Preview animation:**
-https://youtu.be/-ByxBP8T5Zc
+https://youtu.be/7iGlIBPzi8o
 
-[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-07%20Victoria%20Outbreak%20Paths.gif)](https://youtu.be/-ByxBP8T5Zc)
+[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-07%20Victoria%20Outbreak%20Paths.gif)](https://youtu.be/7iGlIBPzi8o)
 
 ----
 ## New South Wales: June 2021
