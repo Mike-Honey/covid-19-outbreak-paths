@@ -13,6 +13,17 @@ https://youtu.be/uliY4o70Bto
 [![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-07%20Victoria%20Outbreak%20Paths.gif)](https://youtu.be/uliY4o70Bto)
 
 ----
+## South Australia: July 2021
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiNzVjNzQ3MmQtYmFkZi00Njc4LTliYzMtMGJjOGU3MmUyMDk3IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-07%20South%20Australia%20Outbreak%20Paths.png)](https://app.powerbi.com/view?r=eyJrIjoiNzVjNzQ3MmQtYmFkZi00Njc4LTliYzMtMGJjOGU3MmUyMDk3IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
+
+**Preview animation:**
+https://youtu.be/uliY4o70Bto
+
+[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-07%20Victoria%20Outbreak%20Paths.gif)](https://youtu.be/uliY4o70Bto)
+
+----
 ## New South Wales: June 2021
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZGQyNTE1ZjUtYTY0OC00ZjhmLTgwYTAtZjAxMGNjOGIxYWUyIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
