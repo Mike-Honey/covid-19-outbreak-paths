@@ -2,6 +2,17 @@
 Projects to explore detailed outbreak paths. Mostly dataviz using Power BI
 
 ----
+## New South Wales by Area: June 2021
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area.png)](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
+
+**Preview animation:**
+https://youtu.be/84jbzh94jJ0
+
+[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths.gif)](https://youtu.be/84jbzh94jJ0)
+
+----
 ## Victoria: July 2021
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiMTEwNDRkODktYTc5My00NDViLWIzNmItODM1MGE1NGI0ZjkwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
@@ -72,17 +83,14 @@ https://youtu.be/PTgq2XbJ83Q
 
 Case-level data on:
 - Victoria outbreak during July 2021
-- New South Wales outbreak during June-July 2021
 - Queensland / Northern Territory outbreak during June 2021
 - Victoria outbreak during May-June 2021
 
 [dbRaevn](https://twitter.com/dbRaevn) has manually constructed diagrams of the outbreak paths, based on information from daily press cases. 
 
-This project turns that inforamtion into structured data and feeds it through an interactive dataviz solution, using [Power BI](https://powerbi.microsoft.com) with the [Drill Down Graph PRO Custom Visual by ZoomCharts](https://appsource.microsoft.com/en-us/product/power-bi-visuals/wa200002065?tab=overview).  The interactive features allow the audience to filter the dataset by date, cluster or variant.
+For the New South Wales June-July 2021 outbreak, manually constructed diagrams are not available after 7 July. So I have used the [NSW COVID-19 cases by location dataset](https://data.nsw.gov.au/data/dataset/covid-19-cases-by-location), and assigned new cases to prior cases in the same local health district.  
 
-For the New South Wales outbreak, manually constructed diagrams are not available after 7 July, so using that final diagram as a starting point, I have:
-- used the [NSW Health Weekly Surveillance Report for the week ending 26 July](https://www.health.nsw.gov.au/Infectious/covid-19/Documents/covid-surveillance-report-20210706.pdf) to assign unlinked cases to newly revealed sub-clusters e.g. Marrickville Warehouse, Bondi Gym etc
-- used the [NSW Health](https://twitter.com/NSWHealth) daily twitter announcements to generate new nodes. As few details are provided, there are many assumptions made.  
+This project turns that inforamtion into structured data and feeds it through an interactive dataviz solution, using [Power BI](https://powerbi.microsoft.com) with the [Drill Down Graph PRO Custom Visual by ZoomCharts](https://appsource.microsoft.com/en-us/product/power-bi-visuals/wa200002065?tab=overview).  The interactive features allow the audience to filter the dataset by date, cluster or variant.
 
 
 **Summary**
