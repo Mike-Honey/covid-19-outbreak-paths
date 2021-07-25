@@ -19,9 +19,9 @@ https://youtu.be/rqyTggseRd4
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-07%20Victoria%20Outbreak%20Paths.png)](https://app.powerbi.com/view?r=eyJrIjoiMTEwNDRkODktYTc5My00NDViLWIzNmItODM1MGE1NGI0ZjkwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
 **Preview animation:**
-https://youtu.be/_c1wMGbjF9E
+https://youtu.be/eNPYLosZhvI
 
-[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-07%20Victoria%20Outbreak%20Paths.gif)](https://youtu.be/_c1wMGbjF9E)
+[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-07%20Victoria%20Outbreak%20Paths.gif)](https://youtu.be/eNPYLosZhvI)
 
 ----
 ## South Australia: July 2021
