@@ -12,6 +12,17 @@ https://youtu.be/XXHpiKAv72E
 
 [![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area.gif)](https://youtu.be/XXHpiKAv72E)
 
+**Race Chart of Reff by Local Health District**
+https://youtu.be/XXHpiKAv72E
+
+[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area%20Race%20Reff%20LHD.gif)](https://youtu.be/XXHpiKAv72E)
+
+**Line Chart of Reff by Local Health District**
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection6e112b450a004de9ab70)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area%20Chart%20Reff%20LHD.png)](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection6e112b450a004de9ab70)
+
+
 ----
 ## Victoria: July 2021
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiMTEwNDRkODktYTc5My00NDViLWIzNmItODM1MGE1NGI0ZjkwIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
