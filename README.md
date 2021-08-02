@@ -31,9 +31,9 @@ https://youtu.be/XXHpiKAv72E
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area%20Map%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbff09a6de103f40d6846)
 
 **Preview animation:**
-https://youtu.be/XXHpiKAv72E
+https://youtu.be/_a6CqKl5-QA
 
-[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area%20Map%20LGA.gif)](https://youtu.be/XXHpiKAv72E)
+[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area%20Map%20LGA.gif)](https://youtu.be/_a6CqKl5-QA)
 
 ### Line Chart of Reff by Local Health District (LHD)
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection6e112b450a004de9ab70)
