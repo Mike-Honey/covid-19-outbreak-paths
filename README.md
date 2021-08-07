@@ -149,6 +149,7 @@ Several dataviz variations are presented on alternate pages - use the page navig
 For the New South Wales outbreak, I've added the following features:
 - labels hidden by default, slicer control to show them
 - dynamic Reff, calculated using Professor Adrian Esterman's method, detailed on this [Twitter thread](https://twitter.com/profesterman/status/1413293550490460166)
+- dynamic Doubling Days, calculated using the method described this page from [Japan Macro Advisors](https://www.japanmacroadvisors.com/page/category/economic-indicators/covid19-related/covid19-days-for-deaths-to-double/). I tried the Wikipedia page but couldnt make sense of it - no clear examples.
 
 Here's how I produce the animations:
 1. screen capture using Windows 10 Game bar (Start-G)
