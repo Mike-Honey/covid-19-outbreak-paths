@@ -57,9 +57,9 @@ https://youtu.be/DDvHbTrdr4A
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths.png)](https://app.powerbi.com/view?r=eyJrIjoiMGU5MWJiZjEtY2Y1ZS00MjZjLWFjM2YtZjZmZTU4NzhmMGU0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
 **Preview animation:**
-https://youtu.be/eNPYLosZhvI
+https://youtu.be/aRyP7bmoBoc
 
-[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths.gif)](https://youtu.be/eNPYLosZhvI)
+[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths.gif)](https://youtu.be/aRyP7bmoBoc)
 
 
 ----
