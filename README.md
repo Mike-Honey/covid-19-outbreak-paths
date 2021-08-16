@@ -166,7 +166,7 @@ Several dataviz variations are presented on alternate pages - use the page navig
 For the New South Wales outbreak, I've added the following features:
 - Case data loaded from [NSW COVID-19 cases by location dataset](https://data.nsw.gov.au/data/dataset/covid-19-cases-by-location)
 - Testing data loaded from [NSW COVID-19 tests by location dataset](https://data.nsw.gov.au/data/dataset/covid-19-tests-by-location)
-- Postcodes with missing LHD & LGA data were translated manually by [Ann McLean](https://twitter.com/annmclan), the results are in [this translation file]().
+- Postcodes with missing LHD & LGA data were translated manually by [Ann McLean](https://twitter.com/annmclan), the results are in [this translation file](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/NSW%20postcodes%20missing%20LHD%20LGA.xlsx).
 - map by LGA of Case and Test metrics. Choose from % Positive, Cases or Tests (raw or per 100,000 residents) for a dynamically shaded map
 - heatmap by LGA of daily Case and Test metrics. Choose from % Positive, Cases or Tests (raw or per 100,000 residents) for a dynamically shaded heatmap/matrix
 - labels hidden by default, slicer control to show them
