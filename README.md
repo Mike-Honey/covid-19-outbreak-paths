@@ -164,6 +164,9 @@ Another sheet in the Excel file provides the colours assigned to each node by da
 Several dataviz variations are presented on alternate pages - use the page navigation controls at the bottom to view them. They explore different layout options and colour schemes, and some alternative visuals.  The [Drill Down Graph PRO Custom Visual by ZoomCharts](https://appsource.microsoft.com/en-us/product/power-bi-visuals/wa200002065?tab=overview) is the preferred visual, and the kind folks at ZoomCharts have supported this project.
 
 For the New South Wales outbreak, I've added the following features:
+- Case data loaded from [NSW COVID-19 cases by location dataset](https://data.nsw.gov.au/data/dataset/covid-19-cases-by-location)
+- Testing data loaded from [NSW COVID-19 tests by location dataset](https://data.nsw.gov.au/data/dataset/covid-19-tests-by-location)
+- Postcodes with missing LHD & LGA data were translated manually by [Ann McLean](https://twitter.com/annmclan), the results are in [this translation file]().
 - map by LGA of Case and Test metrics. Choose from % Positive, Cases or Tests (raw or per 100,000 residents) for a dynamically shaded map
 - heatmap by LGA of daily Case and Test metrics. Choose from % Positive, Cases or Tests (raw or per 100,000 residents) for a dynamically shaded heatmap/matrix
 - labels hidden by default, slicer control to show them
