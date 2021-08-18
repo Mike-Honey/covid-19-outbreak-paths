@@ -51,6 +51,50 @@ https://youtu.be/DDvHbTrdr4A
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area%20Chart%20Reff%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbd8dbcf09810eebacca6)
 
 ----
+## Victoria by Area: August 2021
+
+### Map of Case metrics by LGA
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbff09a6de103f40d6846)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Map%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbff09a6de103f40d6846)
+
+**Preview animation:**
+https://youtu.be/_a6CqKl5-QA
+
+[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Map%20LGA.gif)](https://youtu.be/_a6CqKl5-QA)
+
+### Heat Map / Table of Case metrics by LGA
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection7052831c5e7568bdfbc4)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Table%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection7052831c5e7568bdfbc4)
+
+### Graph by Area 
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection249bfa2c532d631a641e)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area.png)](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection249bfa2c532d631a641e)
+
+**Preview animation:**
+https://youtu.be/DDvHbTrdr4A
+
+[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area.gif)](https://youtu.be/DDvHbTrdr4A)
+
+
+### Line Chart of Cases by State, Region and Local Government Area (LGA)
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection3227ecd3823f9a88936a)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Chart%20DD%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection3227ecd3823f9a88936a)
+
+### Line Chart of Doubling Days by State, Region and Local Government Area (LGA)
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection3ae3499098eca23f2f26)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Chart%20DD%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection3ae3499098eca23f2f26)
+
+### Line Chart of Reff by State, Region and Local Government Area (LGA)
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbd8dbcf09810eebacca6)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Chart%20Reff%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbd8dbcf09810eebacca6)
+
+----
 ## Victoria: August 2021
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiMGU5MWJiZjEtY2Y1ZS00MjZjLWFjM2YtZjZmZTU4NzhmMGU0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
