@@ -59,9 +59,9 @@ https://youtu.be/DDvHbTrdr4A
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Map%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbff09a6de103f40d6846)
 
 **Preview animation:**
-https://youtu.be/_a6CqKl5-QA
+https://youtu.be/WeY2ACKK02U
 
-[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Map%20LGA.gif)](https://youtu.be/_a6CqKl5-QA)
+[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Map%20LGA.gif)](https://youtu.be/WeY2ACKK02U)
 
 ### Heat Map / Table of Case metrics by LGA
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection7052831c5e7568bdfbc4)
@@ -74,9 +74,9 @@ https://youtu.be/_a6CqKl5-QA
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area.png)](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection249bfa2c532d631a641e)
 
 **Preview animation:**
-https://youtu.be/DDvHbTrdr4A
+https://youtu.be/zyURqmFqeK0
 
-[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area.gif)](https://youtu.be/DDvHbTrdr4A)
+[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area.gif)](https://youtu.be/zyURqmFqeK0)
 
 
 ### Line Chart of Cases by State, Region and Local Government Area (LGA)
