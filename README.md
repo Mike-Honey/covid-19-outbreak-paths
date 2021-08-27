@@ -213,7 +213,7 @@ Another sheet in the Excel file provides the colours assigned to each node by da
 Several dataviz variations are presented on alternate pages - use the page navigation controls at the bottom to view them. They explore different layout options and colour schemes, and some alternative visuals.  The [Drill Down Graph PRO Custom Visual by ZoomCharts](https://appsource.microsoft.com/en-us/product/power-bi-visuals/wa200002065?tab=overview) is the preferred visual, and the kind folks at ZoomCharts have supported this project.
 
 For the VIC July 2021 outbreak, I've created a "by Area" version with the following features:
-- Case data loaded from [NSW COVID-19 cases by location and likely source of infection dataset](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-location-and-likely-source-of-infection)
+- Case data loaded from [dataset: All Victorian SARS-CoV-2 cases by local government area, postcode and acquired source](https://discover.data.vic.gov.au/dataset/all-victorian-sars-cov-2-cases-by-local-government-area-postcode-and-acquired-source)
 - map by LGA of Case metrics. Choose from Cases (raw or per 100,000 residents) for a dynamically shaded map
 - heatmap by LGA of daily Case metrics. Choose from Cases (raw or per 100,000 residents) for a dynamically shaded heatmap/matrix
 - graph (network) chart linking cases by LGA. Labels hidden by default, slicer control to show them
