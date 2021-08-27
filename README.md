@@ -212,13 +212,22 @@ Another sheet in the Excel file provides the colours assigned to each node by da
 
 Several dataviz variations are presented on alternate pages - use the page navigation controls at the bottom to view them. They explore different layout options and colour schemes, and some alternative visuals.  The [Drill Down Graph PRO Custom Visual by ZoomCharts](https://appsource.microsoft.com/en-us/product/power-bi-visuals/wa200002065?tab=overview) is the preferred visual, and the kind folks at ZoomCharts have supported this project.
 
-For the New South Wales outbreak, I've added the following features:
-- Case data loaded from [NSW COVID-19 cases by location dataset](https://data.nsw.gov.au/data/dataset/covid-19-cases-by-location)
+For the VIC July 2021 outbreak, I've created a "by Area" version with the following features:
+- Case data loaded from [NSW COVID-19 cases by location and likely source of infection dataset](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-location-and-likely-source-of-infection)
+- map by LGA of Case metrics. Choose from Cases (raw or per 100,000 residents) for a dynamically shaded map
+- heatmap by LGA of daily Case metrics. Choose from Cases (raw or per 100,000 residents) for a dynamically shaded heatmap/matrix
+- graph (network) chart linking cases by LGA. Labels hidden by default, slicer control to show them
+- dynamic Reff, calculated using Professor Adrian Esterman's method, detailed on this [Twitter thread](https://twitter.com/profesterman/status/1413293550490460166)
+- dynamic Doubling Days, calculated using the method described this page from [Japan Macro Advisors](https://www.japanmacroadvisors.com/page/category/economic-indicators/covid19-related/covid19-days-for-deaths-to-double/). I tried the Wikipedia page but couldnt make sense of it - no clear examples.
+
+For the New South Wales outbreak, I've created a "by Area" version with the following features:
+- Case data loaded from [NSW COVID-19 cases by location and likely source of infection dataset](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-location-and-likely-source-of-infection)
 - Testing data loaded from [NSW COVID-19 tests by location dataset](https://data.nsw.gov.au/data/dataset/covid-19-tests-by-location)
 - Postcodes with missing LHD & LGA data were translated manually by [Ann McLean](https://twitter.com/annmclan), the results are in [this translation file](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/NSW%20postcodes%20missing%20LHD%20LGA.xlsx).
-- map by LGA of Case and Test metrics. Choose from % Positive, Cases or Tests (raw or per 100,000 residents) for a dynamically shaded map
-- heatmap by LGA of daily Case and Test metrics. Choose from % Positive, Cases or Tests (raw or per 100,000 residents) for a dynamically shaded heatmap/matrix
-- labels hidden by default, slicer control to show them
+- map by LGA of Case and Test metrics. Choose from % Positive, Cases, Cases rolling average or Tests (raw or per 100,000 residents) for a dynamically shaded map
+- heatmap by LGA of daily Case and Test metrics. Choose from % Positive, Cases, Cases rolling average or Tests (raw or per 100,000 residents) for a dynamically shaded heatmap/matrix
+- bubble chart of cases per 100k vs % positive by LGA
+- graph (network) chart linking cases by LGA. Labels hidden by default, slicer control to show them
 - dynamic Reff, calculated using Professor Adrian Esterman's method, detailed on this [Twitter thread](https://twitter.com/profesterman/status/1413293550490460166)
 - dynamic Doubling Days, calculated using the method described this page from [Japan Macro Advisors](https://www.japanmacroadvisors.com/page/category/economic-indicators/covid19-related/covid19-days-for-deaths-to-double/). I tried the Wikipedia page but couldnt make sense of it - no clear examples.
 
