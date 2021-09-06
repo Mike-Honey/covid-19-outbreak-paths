@@ -2,7 +2,7 @@
 Projects to explore detailed outbreak paths. Mostly dataviz using Power BI
 
 ----
-## New South Wales by Area: June-August 2021
+## New South Wales by Area: June 2021
 
 ### Map of Case and Test metrics by LGA
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbff09a6de103f40d6846)
