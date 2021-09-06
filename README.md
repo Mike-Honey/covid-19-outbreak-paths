@@ -24,6 +24,11 @@ https://youtu.be/_a6CqKl5-QA
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area%20Scatter%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection579003483e60d225f5ae)
 
+### Bubble Chart of Tests per 100k population vs % Positive by LGA
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection64db1469092d3c714e2b)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area%20Scatter%20LGA%20Tests.png)](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection64db1469092d3c714e2b)
+
 ### Graph by Area 
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection249bfa2c532d631a641e)
 
