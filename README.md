@@ -4,7 +4,7 @@ Projects to explore detailed outbreak paths. Mostly dataviz using Power BI
 ----
 ## New South Wales by Area: June 2021
 
-### Map of Case and Test metrics by LGA
+### NSW Jun 2021 - Map of Case and Test metrics by LGA
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbff09a6de103f40d6846)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area%20Map%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbff09a6de103f40d6846)
@@ -14,22 +14,22 @@ https://youtu.be/_a6CqKl5-QA
 
 [![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area%20Map%20LGA.gif)](https://youtu.be/_a6CqKl5-QA)
 
-### Heat Map / Table of Case and Test metrics by LGA
+### NSW Jun 2021 - Heat Map / Table of Case and Test metrics by LGA
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection7052831c5e7568bdfbc4)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area%20Table%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection7052831c5e7568bdfbc4)
 
-### Bubble Chart of Cases per 100k population vs % Positive by LGA
+### NSW Jun 2021 - Bubble Chart of Cases per 100k population vs % Positive by LGA
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection579003483e60d225f5ae)
 
-[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area%20Scatter%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection579003483e60d225f5ae)
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area%20Bubble%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection579003483e60d225f5ae)
 
-### Bubble Chart of Tests per 100k population vs % Positive by LGA
+### NSW Jun 2021 - Bubble Chart of Tests per 100k population vs % Positive by LGA
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection64db1469092d3c714e2b)
 
-[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area%20Scatter%20LGA%20Tests.png)](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection64db1469092d3c714e2b)
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area%20Bubble%20LGA%20Tests.png)](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection64db1469092d3c714e2b)
 
-### Graph by Area 
+### NSW Jun 2021 - Graph by Area 
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection249bfa2c532d631a641e)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area.png)](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection249bfa2c532d631a641e)
@@ -39,23 +39,22 @@ https://youtu.be/DDvHbTrdr4A
 
 [![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area.gif)](https://youtu.be/DDvHbTrdr4A)
 
-### Line Chart of Doubling Days by Local Health District (LHD)
+### NSW Jun 2021 - Line Chart of Doubling Days by Local Health District (LHD)
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectiondbc68f95232fddd5f3fb)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area%20Chart%20DD%20LHD.png)](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectiondbc68f95232fddd5f3fb)
 
-### Line Chart of Reff by Local Health District (LHD)
+### NSW Jun 2021 - Line Chart of Reff by Local Health District (LHD)
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection6e112b450a004de9ab70)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area%20Chart%20Reff%20LHD.png)](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection6e112b450a004de9ab70)
 
-
-### Line Chart of Doubling Days by Local Government Area (LGA)
+### NSW Jun 2021 - Line Chart of Doubling Days by Local Government Area (LGA)
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection3ae3499098eca23f2f26)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area%20Chart%20DD%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection3ae3499098eca23f2f26)
 
-### Line Chart of Reff by Local Government Area (LGA)
+### NSW Jun 2021 - Line Chart of Reff by Local Government Area (LGA)
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbd8dbcf09810eebacca6)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20New%20South%20Wales%20Outbreak%20Paths%20by%20Area%20Chart%20Reff%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiN2Y1MTQ5NzYtZWE5Yi00MGZkLWI1NjEtMTY1MGQwMjk5ODZlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbd8dbcf09810eebacca6)
@@ -63,7 +62,7 @@ https://youtu.be/DDvHbTrdr4A
 ----
 ## Victoria by Area: August 2021
 
-### Map of Case metrics by LGA
+### VIC Aug 2021 - Map of Case metrics by LGA
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbff09a6de103f40d6846)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Map%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbff09a6de103f40d6846)
@@ -73,12 +72,12 @@ https://youtu.be/_fZeWkcsASE
 
 [![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Map%20LGA.gif)](https://youtu.be/_fZeWkcsASE)
 
-### Heat Map / Table of Case metrics by LGA
+### VIC Aug 2021 - Heat Map / Table of Case metrics by LGA
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection7052831c5e7568bdfbc4)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Table%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection7052831c5e7568bdfbc4)
 
-### Graph by Area 
+### VIC Aug 2021 - Graph by Area 
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection249bfa2c532d631a641e)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area.png)](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection249bfa2c532d631a641e)
@@ -89,17 +88,17 @@ https://youtu.be/zyURqmFqeK0
 [![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area.gif)](https://youtu.be/zyURqmFqeK0)
 
 
-### Line Chart of Cases by State, Region and Local Government Area (LGA)
+### VIC Aug 2021 - Line Chart of Cases by State, Region and Local Government Area (LGA)
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection3227ecd3823f9a88936a)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Chart%20DD%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection3227ecd3823f9a88936a)
 
-### Line Chart of Doubling Days by State, Region and Local Government Area (LGA)
+### VIC Aug 2021 - Line Chart of Doubling Days by State, Region and Local Government Area (LGA)
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection3ae3499098eca23f2f26)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Chart%20DD%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection3ae3499098eca23f2f26)
 
-### Line Chart of Reff by State, Region and Local Government Area (LGA)
+### VIC Aug 2021 - Line Chart of Reff by State, Region and Local Government Area (LGA)
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbd8dbcf09810eebacca6)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Chart%20Reff%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbd8dbcf09810eebacca6)
