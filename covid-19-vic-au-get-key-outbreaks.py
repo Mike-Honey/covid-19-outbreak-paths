@@ -6,6 +6,7 @@ import pandas
 import requests
 import json
 from selenium import webdriver
+import shutil 
 import time
 
 
@@ -25,6 +26,7 @@ def processWebPage(driver, webpageURL, datadir, filename, table_instance, check_
     html_table_df = html_table_df.sort_values(by=html_table_cols)
 
     if check_diff:
+        shutil.copy2(datadir + filename, datadir + str.replace(filename, ".xlsx", "_prior.xlsx"))
         input_xlsx_df = pandas.read_excel(datadir + filename)
         # print ( input_xlsx_df )
 
