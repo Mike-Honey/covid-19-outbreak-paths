@@ -53,7 +53,7 @@ def main():
     print (str(datetime.datetime.now()) + ' Starting ...')
     webpageURL = 'https://www.coronavirus.vic.gov.au/additional-covid-19-case-data'
     datadir = 'C:/Dev/covid-19-outbreak-paths/'
-    check_diff = True
+    check_diff = False
 
     chromeOptions = webdriver.ChromeOptions()
     prefs = {"download.default_directory" : r"C:\Dev\covid-19-genomes\vmt", 
