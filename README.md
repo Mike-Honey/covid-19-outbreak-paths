@@ -74,7 +74,7 @@ Choose from a list of available Metrics: % Positive, Cases, Tests and variations
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Cases.png)](https://app.powerbi.com/view?r=eyJrIjoiYTgzNzA2MjgtMjYxNS00NTVmLThiMWMtMTk3YjE1YmIwYzU5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectiond7c2e55804b81bfcd4c4)
 
-### VIC Aug 2021 - Case by Age
+### VIC Aug 2021 - Cases by Age
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiYTgzNzA2MjgtMjYxNS00NTVmLThiMWMtMTk3YjE1YmIwYzU5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionc01e541cf1ee5fe64750)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Age.png)](https://app.powerbi.com/view?r=eyJrIjoiYTgzNzA2MjgtMjYxNS00NTVmLThiMWMtMTk3YjE1YmIwYzU5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionc01e541cf1ee5fe64750)
