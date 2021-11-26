@@ -69,6 +69,16 @@ Choose from a list of available Metrics: % Positive, Cases, Tests and variations
 ----
 ## Victoria by Area: August 2021
 
+### VIC Aug 2021 - Case Summary
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiYTgzNzA2MjgtMjYxNS00NTVmLThiMWMtMTk3YjE1YmIwYzU5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectiond7c2e55804b81bfcd4c4)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Cases.png)](https://app.powerbi.com/view?r=eyJrIjoiYTgzNzA2MjgtMjYxNS00NTVmLThiMWMtMTk3YjE1YmIwYzU5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectiond7c2e55804b81bfcd4c4)
+
+### VIC Aug 2021 - Case by Age
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiYTgzNzA2MjgtMjYxNS00NTVmLThiMWMtMTk3YjE1YmIwYzU5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionc01e541cf1ee5fe64750)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Age.png)](https://app.powerbi.com/view?r=eyJrIjoiYTgzNzA2MjgtMjYxNS00NTVmLThiMWMtMTk3YjE1YmIwYzU5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionc01e541cf1ee5fe64750)
+
 ### VIC Aug 2021 - Map of Case metrics by LGA
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiYTgzNzA2MjgtMjYxNS00NTVmLThiMWMtMTk3YjE1YmIwYzU5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbff09a6de103f40d6846)
 
@@ -225,6 +235,7 @@ Several dataviz variations are presented on alternate pages - use the page navig
 
 For the VIC July 2021 outbreak, I've created a "by Area" version with the following features:
 - Case data loaded from [dataset: All Victorian SARS-CoV-2 cases by local government area, postcode and acquired source](https://discover.data.vic.gov.au/dataset/all-victorian-sars-cov-2-cases-by-local-government-area-postcode-and-acquired-source)
+- Cases by Age data loaded from [CovidbaseAU](https://covidbaseau.com/historical/?title=VIC%20Cases%20By%20Age%20Group&return=https://covidbaseau.com/vic/)
 - map by LGA of Case metrics. Choose from Cases (raw or per 100,000 residents) for a dynamically shaded map
 - heatmap by LGA of daily Case metrics. Choose from Cases (raw or per 100,000 residents) for a dynamically shaded heatmap/matrix
 - graph (network) chart linking cases by LGA. Labels hidden by default, slicer control to show them
