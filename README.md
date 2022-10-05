@@ -74,11 +74,6 @@ Choose from a list of available Metrics: % Positive, Cases, Tests and variations
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Cases.png)](https://app.powerbi.com/view?r=eyJrIjoiYTgzNzA2MjgtMjYxNS00NTVmLThiMWMtMTk3YjE1YmIwYzU5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectiond7c2e55804b81bfcd4c4)
 
-### VIC - Cases by Age
-[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiYTgzNzA2MjgtMjYxNS00NTVmLThiMWMtMTk3YjE1YmIwYzU5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionc01e541cf1ee5fe64750)
-
-[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Age.png)](https://app.powerbi.com/view?r=eyJrIjoiYTgzNzA2MjgtMjYxNS00NTVmLThiMWMtMTk3YjE1YmIwYzU5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionc01e541cf1ee5fe64750)
-
 ### VIC - Map of Case metrics by LGA
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiYTgzNzA2MjgtMjYxNS00NTVmLThiMWMtMTk3YjE1YmIwYzU5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbff09a6de103f40d6846)
 
@@ -94,17 +89,6 @@ https://youtu.be/_fZeWkcsASE
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Table%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiYTgzNzA2MjgtMjYxNS00NTVmLThiMWMtMTk3YjE1YmIwYzU5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection7052831c5e7568bdfbc4)
 
-### VIC - Graph by Area 
-[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection249bfa2c532d631a641e)
-
-[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area.png)](https://app.powerbi.com/view?r=eyJrIjoiZjI4MTAxNjMtYzNhYS00NzNmLTllMzEtMDI1MmY5NzJhNTliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection249bfa2c532d631a641e)
-
-**Preview animation:**
-https://youtu.be/zyURqmFqeK0
-
-[![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area.gif)](https://youtu.be/zyURqmFqeK0)
-
-
 ### VIC - Line Chart of Cases by State, Region and Local Government Area (LGA)
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiYTgzNzA2MjgtMjYxNS00NTVmLThiMWMtMTk3YjE1YmIwYzU5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection3227ecd3823f9a88936a)
 
@@ -115,15 +99,6 @@ https://youtu.be/zyURqmFqeK0
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Chart%20Reff%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiYTgzNzA2MjgtMjYxNS00NTVmLThiMWMtMTk3YjE1YmIwYzU5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbd8dbcf09810eebacca6)
 
-### VIC - Active Key Clusters (categorised)
-[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiYTgzNzA2MjgtMjYxNS00NTVmLThiMWMtMTk3YjE1YmIwYzU5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionff1c60dd705abd1c2240)
-
-[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Clusters.png)](https://app.powerbi.com/view?r=eyJrIjoiYTgzNzA2MjgtMjYxNS00NTVmLThiMWMtMTk3YjE1YmIwYzU5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionff1c60dd705abd1c2240)
-
-### VIC - Cluster History
-[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiYTgzNzA2MjgtMjYxNS00NTVmLThiMWMtMTk3YjE1YmIwYzU5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection73d9316f7dc4ba1a911d)
-
-[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-08%20Victoria%20Outbreak%20Paths%20by%20Area%20Cluster%20History.png)](https://app.powerbi.com/view?r=eyJrIjoiYTgzNzA2MjgtMjYxNS00NTVmLThiMWMtMTk3YjE1YmIwYzU5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection73d9316f7dc4ba1a911d)
 
 ----
 ## Victoria: August 2021
