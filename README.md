@@ -11,7 +11,7 @@ For QLD, analyses RAT reported cases and tests down to LGA level, with added der
 ### Map by LGA
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiMTM0YzQ0MmQtY2RiOC00ODVlLWE5MTktNGNiNzNhNzhhYjQ0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbff09a6de103f40d6846)
 
-[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20Australia%20Outbreak%20Paths%20by%20Area%20Map%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiMTM0YzQ0MmQtY2RiOC00ODVlLWE5MTktNGNiNzNhNzhhYjQ0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbff09a6de103f40d6846)
+[![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-06%20Australia%20Outbreak%20Paths%20by%20Area%20Map.png)](https://app.powerbi.com/view?r=eyJrIjoiMTM0YzQ0MmQtY2RiOC00ODVlLWE5MTktNGNiNzNhNzhhYjQ0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbff09a6de103f40d6846)
 
 ### Line Charts of Reff by State, Region and Local Government Area (LGA)
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiMTM0YzQ0MmQtY2RiOC00ODVlLWE5MTktNGNiNzNhNzhhYjQ0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbd8dbcf09810eebacca6)
