@@ -23,7 +23,7 @@ If you are dissappointed by the data provided by your state or jurisdiction, ple
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/Australia%20Outbreak%20Paths%20by%20Area%20Bubble%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiMTM0YzQ0MmQtY2RiOC00ODVlLWE5MTktNGNiNzNhNzhhYjQ0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection579003483e60d225f5ae)
 
-### NSW - Line Chart of Metrics by Local Government Area (LGA)
+### Column and Line Chart of Metrics by Local Government Area (LGA)
 Choose from a list of available Metrics: % Positive, Cases, Tests and variations. View in aggregate and by Region and LGA 
 
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiMGQ3NTEzZDEtMDhlNi00ZWM2LTk4YWItN2ZlOTE4NDZkNDNkIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection3227ecd3823f9a88936a)
