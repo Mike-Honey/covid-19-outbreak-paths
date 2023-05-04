@@ -5,8 +5,11 @@ Projects to explore detailed outbreak paths. Mostly dataviz using Power BI
 ## Australia - Outbreaks by Area
 
 For NSW & VIC, analyses PCR and RAT reported cases down to LGA level, with derived metrics like Reff and Cases per 100K. Data is published weekly on Fridays.
+
 For QLD, analyses RAT reported cases and tests down to LGA level, with added derived metrics like % Positive and Tests per 100K. Data is published daily, with a lag of a few days.
+
 If you are dissappointed by the data provided by your state or jurisdiction, please contact your elected representatives and let them know.
+
 
 ### Map by LGA
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiMTM0YzQ0MmQtY2RiOC00ODVlLWE5MTktNGNiNzNhNzhhYjQ0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionbff09a6de103f40d6846)
@@ -30,7 +33,7 @@ Choose from a list of available Metrics: % Positive, Cases, Tests and variations
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/Australia%20Outbreak%20Paths%20by%20Area%20Chart%20Metrics%20LGA.png)](https://app.powerbi.com/view?r=eyJrIjoiMGQ3NTEzZDEtMDhlNi00ZWM2LTk4YWItN2ZlOTE4NDZkNDNkIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection3227ecd3823f9a88936a)
 
-Many other report pages are avaialble, just click on one of the links above, then use the page navigation control at bottom-centre: *<1 of 15>*. Clicking the centre of that control will show a menu of pages.
+Many other report pages are avaialble, just click on one of the links above, then use the page navigation control at bottom-centre: **<1 of 15>**. Clicking the centre of that control will show a menu of pages.
 
 ----
 ## New South Wales by Area
