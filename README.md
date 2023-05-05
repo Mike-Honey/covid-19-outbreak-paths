@@ -6,7 +6,7 @@ Projects to explore detailed outbreak paths. Mostly dataviz using Power BI
 
 For NSW & VIC, analyses PCR and RAT reported cases down to LGA level, with derived metrics like Reff and Cases per 100K. Data is published weekly on Fridays.
 
-For QLD, analyses RAT reported cases and tests down to LGA level, with added derived metrics like % Positive and Tests per 100K. Data is published daily, with a lag of a few days.
+For QLD, analyses RAT reported cases and tests down to LGA level, with added derived metrics like % Positive and Tests per 100K. Data is published on Wednesdays.
 
 If you are dissappointed by the data provided by your state or jurisdiction, please contact your elected representatives and let them know.
 
