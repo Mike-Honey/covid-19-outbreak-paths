@@ -12,8 +12,11 @@ If you are dissappointed by the data provided by your state or jurisdiction, ple
 
 
 ### Charts of Metrics by Area - State, Region and Local Government Area (LGA)
-Region and Local Government Area (LGA) are available as options for presentation.
+
+State, Region and Local Government Area (LGA) are available as options for presentation.
+
 Column and stacked column charts are available on adjacent pages.
+
 
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiMTM0YzQ0MmQtY2RiOC00ODVlLWE5MTktNGNiNzNhNzhhYjQ0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection0b13acb6676aa1c17031)
 
