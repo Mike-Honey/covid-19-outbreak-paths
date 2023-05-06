@@ -32,7 +32,7 @@ Column and stacked column charts are available on adjacent pages.
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/AUS%20Outbreak%20Paths%20by%20Area%20Bubble.png)](https://app.powerbi.com/view?r=eyJrIjoiMTM0YzQ0MmQtY2RiOC00ODVlLWE5MTktNGNiNzNhNzhhYjQ0IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection579003483e60d225f5ae)
 
-Many other report pages are avaialble, just click on one of the links above, then use the page navigation control at bottom-centre: **<1 of 9>**. Clicking the centre of that control will show a menu of pages.
+Many other report pages are available, just click on one of the links above, then use the page navigation control at bottom-centre: **<1 of 9>**. Clicking the centre of that control will show a menu of pages.
 
 ----
 ## New South Wales by Area
