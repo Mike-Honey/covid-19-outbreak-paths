@@ -163,6 +163,7 @@ The "Australia Outbreak" report has the following features:
 - VIC Case by location data loaded from [dataset: All PCR and RAT cases by Local Government Area](https://discover.data.vic.gov.au/dataset/victorian-coronavirus-data/resource/bcebb71b-9318-4afc-b2a3-ccd38ad31287)
 - VIC Cases by Age data loaded from [dataset: All PCR and RAT cases by age group](https://discover.data.vic.gov.au/dataset/victorian-coronavirus-data/resource/0783f3ec-497c-4892-aa96-50762c7b2ccb)
 - QLD Case by location data loaded from [dataset: Queensland COVID-19 Case Line List - Location & Source of Infection](https://www.data.qld.gov.au/dataset/queensland-covid-19-case-line-list-location-source-of-infection)
+- QLD Case by age data loaded from [dataset: Queensland COVID-19 Case Line List - Age Groups](https://www.data.qld.gov.au/dataset/queensland-covid-19-case-line-list-age-groups)
 - QLD Tests by location data loaded from [dataset: Queensland COVID-19 Pathology Test Totals by Collection Day and SA2](https://www.data.qld.gov.au/dataset/queensland-covid-19-pathology-testing-totals)
 - [ABS Population by State-Territory and Age](https://github.com/Mike-Honey/covid-19-outbreak-paths/blob/main/ABS%20Population%20by%20State-Territory%20and%20Age.xlsx) 
 - dynamic Reff, calculated using Professor Adrian Esterman's method, detailed on this [Twitter thread](https://twitter.com/profesterman/status/1413293550490460166)
