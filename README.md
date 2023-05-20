@@ -156,25 +156,19 @@ https://youtu.be/PTgq2XbJ83Q
 ----
 **Summary**
 
-For the New South Wales outbreak, I've created a "by Area" version with the following features:
-- Case data loaded from [NSW COVID-19 cases by location and likely source of infection dataset](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-location-and-likely-source-of-infection)
-- Testing data loaded from [NSW COVID-19 tests by location dataset](https://data.nsw.gov.au/data/dataset/covid-19-tests-by-location)
-- Postcodes with missing LHD & LGA data were translated manually by [Ann McLean](https://twitter.com/annmclan), the results are in [this translation file](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/NSW%20postcodes%20missing%20LHD%20LGA.xlsx).
-- map by LGA of Case and Test metrics. Choose from % Positive, Cases, Cases rolling average or Tests (raw or per 100,000 residents) for a dynamically shaded map
-- heatmap by LGA of daily Case and Test metrics. Choose from % Positive, Cases, Cases rolling average or Tests (raw or per 100,000 residents) for a dynamically shaded heatmap/matrix
-- bubble chart of cases per 100k vs % positive by LGA
-- graph (network) chart linking cases by LGA. Labels hidden by default, slicer control to show them
+The "Australia Outbreak" report has the following features:
+- NSW Cases by location data loaded from [dataset: Cases by location aggregated data](https://data.nsw.gov.au/data/dataset/covid-19-cases-by-location/resource/5d63b527-e2b8-4c42-ad6f-677f14433520)
+- NSW Case by Age data loaded from [dataset: COVID-19 cases by notification date and age range](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-age-range/resource/4b03bc25-ab4b-46c0-bb3e-0c839c9915c5)
+- NSW Postcodes with missing LHD & LGA data were translated manually by [Ann McLean](https://twitter.com/annmclan), the results are in [this translation file](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/NSW%20postcodes%20missing%20LHD%20LGA.xlsx).
+- VIC Case by location data loaded from [dataset: All PCR and RAT cases by Local Government Area](https://discover.data.vic.gov.au/dataset/victorian-coronavirus-data/resource/bcebb71b-9318-4afc-b2a3-ccd38ad31287)
+- VIC Cases by Age data loaded from [dataset: All PCR and RAT cases by age group](https://discover.data.vic.gov.au/dataset/victorian-coronavirus-data/resource/0783f3ec-497c-4892-aa96-50762c7b2ccb)
+- QLD Case by location data loaded from [dataset: Queensland COVID-19 Case Line List - Location & Source of Infection](https://www.data.qld.gov.au/dataset/queensland-covid-19-case-line-list-location-source-of-infection)
+- QLD Tests by location data loaded from [dataset: Queensland COVID-19 Pathology Test Totals by Collection Day and SA2](https://www.data.qld.gov.au/dataset/queensland-covid-19-pathology-testing-totals)
+- [ABS Population by State-Territory and Age](https://github.com/Mike-Honey/covid-19-outbreak-paths/blob/main/ABS%20Population%20by%20State-Territory%20and%20Age.xlsx) 
 - dynamic Reff, calculated using Professor Adrian Esterman's method, detailed on this [Twitter thread](https://twitter.com/profesterman/status/1413293550490460166)
-- dynamic Doubling Days, calculated using the method described this page from [Japan Macro Advisors](https://www.japanmacroadvisors.com/page/category/economic-indicators/covid19-related/covid19-days-for-deaths-to-double/). I tried the Wikipedia page but couldnt make sense of it - no clear examples.
 
-For the Victoria outbreak, I've created a "by Area" version with the following features:
-- Case data loaded from [dataset: All Victorian SARS-CoV-2 cases by local government area, postcode and acquired source](https://discover.data.vic.gov.au/dataset/all-victorian-sars-cov-2-cases-by-local-government-area-postcode-and-acquired-source)
-- Cases by Age data loaded from [CovidbaseAU](https://covidbaseau.com/historical/?title=VIC%20Cases%20By%20Age%20Group&return=https://covidbaseau.com/vic/)
-- map by LGA of Case metrics. Choose from Cases (raw or per 100,000 residents) for a dynamically shaded map
-- heatmap by LGA of daily Case metrics. Choose from Cases (raw or per 100,000 residents) for a dynamically shaded heatmap/matrix
-- graph (network) chart linking cases by LGA. Labels hidden by default, slicer control to show them
-- dynamic Reff, calculated using Professor Adrian Esterman's method, detailed on this [Twitter thread](https://twitter.com/profesterman/status/1413293550490460166)
-- dynamic Doubling Days, calculated using the method described this page from [Japan Macro Advisors](https://www.japanmacroadvisors.com/page/category/economic-indicators/covid19-related/covid19-days-for-deaths-to-double/). I tried the Wikipedia page but couldnt make sense of it - no clear examples.
+
+**Data sources for older reports** 
 
 Case-level data on:
 - Victoria outbreak during July 2021
