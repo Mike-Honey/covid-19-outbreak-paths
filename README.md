@@ -154,7 +154,7 @@ https://youtu.be/PTgq2XbJ83Q
 [![Click to view an animated preview of the report](https://github.com/Mike-Honey/covid-19-outbreak-paths/raw/main/2021-05%20Victorian%20Outbreak%20Paths.gif)](https://youtu.be/PTgq2XbJ83Q)
 
 ----
-**Summary**
+## Summary
 
 The "Australia Outbreak" report has the following features:
 - NSW Cases by location data loaded from [dataset: Cases by location aggregated data](https://data.nsw.gov.au/data/dataset/covid-19-cases-by-location/resource/5d63b527-e2b8-4c42-ad6f-677f14433520)
